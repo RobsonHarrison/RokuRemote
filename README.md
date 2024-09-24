@@ -29,8 +29,8 @@ A lightweight, single-page web application for controlling Roku devices via IP. 
 1. **Set your Roku IP address:**
 
    Edit the following line in the script section of the index.html file:
-    `const rokuIp = "YOUR_ROKU_IP_ADDRESS"; // Replace this with your Roku IP address
-
+   ```bash
+   const rokuIp = "YOUR_ROKU_IP_ADDRESS"; // Replace this with your Roku IP address
 
 ## Contributing
 - Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs or suggestions.
