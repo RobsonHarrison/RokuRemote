@@ -1,6 +1,6 @@
 # Roku Remote Control
 
-![Roku Remote Control Screenshot](images/roku-remote-control-screenshot.png)
+![Roku Remote Control Screenshot](images/roku-remote-screenshot.png)
 
 ## Overview
 
