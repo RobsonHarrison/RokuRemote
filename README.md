@@ -24,11 +24,6 @@ A modern, web-based remote control for Roku devices withcomprehensive functional
 
 ## Getting Started
 
-### Prerequisites
-- A Roku device connected to the same network as your computer
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Roku device with External Control Protocol (ECP) enabled
-
 ### Installation
 
 1. **Clone the repository:**
